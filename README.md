@@ -1,4 +1,4 @@
-# ml-for-pubpol
+# Machine Learning for Public Policy
 This repo has all the work done for Machine Learning for Public Policy, taught by Rayid Ghani (http://www.rayidghani.com/). Rayid is a Research Director at the Computation Institute, Senior Fellow at the Harris School of Public Policy, and Director of the Center for Data Science and Public Policy at the University of Chicago.
 
 ### Course Description:
