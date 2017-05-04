@@ -1,5 +1,5 @@
 '''
-Helper Functions
+Processing Functions
 '''
 import os
 import numpy as np
@@ -38,7 +38,7 @@ def mean_inputation(df):
         data = df[column]
         if data.dtype in [int, float]:
             inputed_value = data.mean()
-            df[column] = data.fillna(inputed_value)
+            df.loc[:,(column)] = data.fillna(inputed_value)
 
     return df
 
